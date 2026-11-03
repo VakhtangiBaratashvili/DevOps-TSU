@@ -1,3 +1,4 @@
+id firstName lastName dateOfBirth startDate status
 1 James Smith 1985-03-12 2020-01-15 ACTIVE
 2 Mary Smith 1990-07-22 2021-03-01 ACTIVE
 3 John Smith 1988-11-05 2019-06-10 INACTIVE
