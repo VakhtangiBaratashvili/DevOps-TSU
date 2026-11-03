@@ -57,8 +57,8 @@ public class EmployeeFileReader {
 
             return employees;
         } catch (IOException e) {
-            e.printStackTrace();
             throw new AppException(ErrorCode.SERVER_ERROR);
         }
     }
+
 }
